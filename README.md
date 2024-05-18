@@ -10,7 +10,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;  
 
-### Studying in this moment:
+### Studying at this moment:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer"/>
 
