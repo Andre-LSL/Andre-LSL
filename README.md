@@ -14,6 +14,11 @@
 ### Studying at this moment:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 #
+[![André Luiz github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre-LSL&theme=monokai)](https://github.com/Andre-LSL/github-readme-activity-graph)
+#
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer"/>
 
 
