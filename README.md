@@ -11,8 +11,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;  
 
-### Studying at this moment:
+#
+### Knowledge:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968571.png" width="30" height="30" alt="Vba">
+
+
+#
+### Studying at this moment:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="33" height="33" alt="Html">
+<img src="https://seeklogo.com/images/C/css-3-logo-A4E6678598-seeklogo.com.png" width="25" alt="Css">
+
 #
 [![André Luiz github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre-LSL&theme=monokai)](https://github.com/Andre-LSL/github-readme-activity-graph)
 #
