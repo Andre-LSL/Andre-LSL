@@ -21,7 +21,7 @@
 ### Studying at this moment:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="33" height="33" alt="Html">
-<img src="https://seeklogo.com/images/C/css-3-logo-A4E6678598-seeklogo.com.png" width="25" alt="Css">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="37" alt="Css">
 
 #
 [![André Luiz github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre-LSL&theme=monokai)](https://github.com/Andre-LSL/github-readme-activity-graph)
