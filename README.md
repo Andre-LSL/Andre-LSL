@@ -14,8 +14,10 @@
 #
 ### Knowledge:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968571.png" width="30" height="30" alt="Vba">
-
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968571.png" width="30" height="30" alt="Github">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" width="30" alt="Python">
+<img src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-2048x1143-g79vnax4.png" width="60" alt="VBA">
+<img src="https://img.icons8.com/?size=100&id=JPQNyXJTIvDH&format=png&color=000000" width="30" alt="AndroidStudio">
 
 #
 ### Studying at this moment:
