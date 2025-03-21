@@ -18,7 +18,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" width="30" alt="Python">
 <img src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-2048x1143-g79vnax4.png" width="60" alt="VBA">
 <img src="https://img.icons8.com/?size=100&id=JPQNyXJTIvDH&format=png&color=000000" width="30" alt="AndroidStudio">
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="33" height="33" alt="Html">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="37" alt="Css">
 
