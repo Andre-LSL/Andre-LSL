@@ -19,11 +19,12 @@
 <img src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-2048x1143-g79vnax4.png" width="60" alt="VBA">
 <img src="https://img.icons8.com/?size=100&id=JPQNyXJTIvDH&format=png&color=000000" width="30" alt="AndroidStudio">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="33" height="33" alt="Html">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="37" alt="Css">
+
 #
 ### Studying at this moment:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="33" height="33" alt="Html">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="37" alt="Css">
 
 #
 [![André Luiz github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre-LSL&theme=monokai)](https://github.com/Andre-LSL/github-readme-activity-graph)
