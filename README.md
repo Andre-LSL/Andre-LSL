@@ -25,10 +25,6 @@
 ### Studying at this moment:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#
-[![André Luiz github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre-LSL&theme=monokai)](https://github.com/Andre-LSL/github-readme-activity-graph)
-#
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer"/>
